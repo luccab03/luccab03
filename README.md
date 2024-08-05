@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on my startup project!<br>
-🌱 I’m currently learning C++.<br>
+🌱 I’m currently learning Swift.<br>
 💬 Ask me about my projects at [the Brazilian Student Association](https://github.com/gobrasa/).<br>
 ⚡ Fun fact: I can't do anything without music. <br>
 🤝 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucca-bringhenti)
